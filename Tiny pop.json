@@ -1,3 +1,4 @@
 #EXTM3U
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1339181,RESOLUTION=1024x576
+
+#EXTINF:-1,UK Tiny Pop
 https://tvnow.best/api/stream/ericvanswa65@gmail.com/Shzhzhshzzushzhsi92/livetv.epg/tiny.pop.uk.m3u8
