@@ -1,2 +1,2 @@
 #EXTINF:-1,UK Pop Max
-http://www.dayiptv.pro:88//05JAN2022A/POXFLTHQXMV59YR/102192
+http://www.dayiptv.pro:88//06JAN2022A/MZTB3NGDXHCKFH4/102192
