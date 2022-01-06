@@ -1,2 +1,2 @@
 #EXTINF:-1,UK Tiny Pop
-http://www.dayiptv.pro:88//05JAN2022A/POXFLTHQXMV59YR/102476
+http://www.dayiptv.pro:88//06JAN2022A/MZTB3NGDXHCKFH4/102476
