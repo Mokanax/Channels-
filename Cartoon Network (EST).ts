@@ -1,2 +1,2 @@
 #EXTINF:-1, Cartoon Network (EST)
-http://www.dayiptv.pro:88//07JAN2022A/YB90K9ZPZVVTELN/123289
+http://www.dayiptv.pro:88//13JAN2022A/Z73ZHCCZOE6YHYV/123289
