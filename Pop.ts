@@ -1,2 +1,2 @@
 #EXTINF:-1,UK Pop
-http://www.dayiptv.pro:88//14JAN2022A/MYNB0CZRG8RGTEM/102191
+http://plasa-stream.com//7C21C2F001A6/54443F61426D/17298
