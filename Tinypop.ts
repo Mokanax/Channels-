@@ -1,2 +1,2 @@
 #EXTINF:-1,UK Tiny Pop
-http://iptvpick.live//5331046098/6940687234/153829
+http://plasa-stream.com//7C21C2F001A6/54443F61426D/17319
