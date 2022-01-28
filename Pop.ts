@@ -1,2 +1,0 @@
-#EXTINF:-1,UK Pop
-http://plasa-stream.com//7C21C2F001A6/54443F61426D/17298
